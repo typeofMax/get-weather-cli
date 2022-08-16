@@ -1,0 +1,29 @@
+{
+  "name": "get-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node weather.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typeofMax/get-weather.git"
+  },
+  "author": "Maxim Bogdanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typeofMax/get-weather/issues"
+  },
+  "homepage": "https://github.com/typeofMax/get-weather#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
+  }
+}
