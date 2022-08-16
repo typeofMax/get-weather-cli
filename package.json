@@ -1,6 +1,6 @@
 {
   "name": "wwweather",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "World wide weather is a utility to get the current weather in any city",
   "main": "weather.js",
   "bin": {
