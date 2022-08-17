@@ -27,18 +27,23 @@ The run the command:
 
 ```bash
 weather 
+```
+Output:
+```console
 WEATHER  Погода в городе Москва
 ☁️ пасмурно
 Температура: 23.35 (ощущается как 22.97)
 Влажность: 47%
 Скорость ветра: 4.52 м/с
-
 ```
+
 
 -h flag - To get all available commands
 
 ```bash
 weather -h
+```
+```console
 Без параметров - вывод погоды     
 -s [CITY] для установки города    
 -h вывод помощи                   
