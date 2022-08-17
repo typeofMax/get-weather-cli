@@ -1,4 +1,4 @@
-### wwwweather - worldwide weather is a utility to get the current weather in any city
+### wwweather - worldwide weather is a utility to get the current weather in any city
 
 ## Install
 
