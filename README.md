@@ -23,7 +23,7 @@ You must save your favourite city with:
 weather -s [CITY]
 ```
 
-The run the command:
+Run the command:
 
 ```bash
 weather 
@@ -43,6 +43,7 @@ WEATHER  Погода в городе Москва
 ```bash
 weather -h
 ```
+Output:
 ```console
 Без параметров - вывод погоды     
 -s [CITY] для установки города    
