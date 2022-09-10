@@ -37,7 +37,6 @@ WEATHER  Погода в городе Москва
 Скорость ветра: 4.52 м/с
 ```
 
-
 -h flag - To get all available commands
 
 ```bash
